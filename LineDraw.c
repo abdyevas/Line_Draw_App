@@ -9,7 +9,7 @@
 #include <math.h>
 #include <GL/glut.h>
 #include <gl.h>
-#include "Vector.h"
+#include "LineStrip.h" 
 
 int window_width, window_height;
 

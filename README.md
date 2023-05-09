@@ -5,4 +5,4 @@ This application is a design tool capable to produce drawings composed of piecew
 make
 
 ## Run 
-./run (.\run.exe)
+./exe <width> <height>

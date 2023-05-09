@@ -8,7 +8,7 @@
 #include <stdbool.h>
 #include <math.h>
 #include <GL/glut.h>
-#include <gl.h>
+#include <GL/gl.h>
 #include "LineStrip.h" 
 
 int window_width, window_height;

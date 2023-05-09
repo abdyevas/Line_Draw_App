@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <GL/glut.h>
-#include <gl.h>
+#include <GL/gl.h>
 #include "Vector.h"
 #define LineStrip Stack* 
 
